@@ -8,6 +8,10 @@ get "/" do
     erb(:home)
 end
 
+get "/camelize" do
+    erb(:camelize)
+end
+
 get "/address" do
     codeclan_address = {
         :address => '3 ARGYLE HOUSE',

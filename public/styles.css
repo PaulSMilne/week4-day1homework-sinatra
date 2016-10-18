@@ -9,7 +9,7 @@ h1 {
 }
 
 p {
-    font-size:1.5em;
+    font-size:1.25em;
     margin-right:5em;
 }
 
@@ -22,3 +22,12 @@ span {color:maroon;}
     box-shadow: 5px 5px 10px #000;
 
 }
+
+div#camel_example {
+    background-color: :white;
+    font-size:2em;
+    padding:10px;
+    font-family: courier;
+    text-shadow:2px 2px 4px #000;
+}
+
